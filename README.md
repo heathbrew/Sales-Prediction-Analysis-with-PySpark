@@ -12,3 +12,6 @@ This project demonstrates an end-to-end analysis of synthetic sales data, coveri
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   ```
+![github DALLE2024-10-2516 40 43-Avibrant16_9thumbnailimageforanarticletitledUnleashingthePowerofPySparkforSalesPredictionAnalysis Displayadigitaldashboardwith-ezgif com-resize](https://github.com/user-attachments/assets/2ecf013c-2214-46f2-939f-3ea5b68ee31f)
+
